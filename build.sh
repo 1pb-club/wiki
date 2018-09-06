@@ -1,7 +1,8 @@
 #!/bin/bash
 
 set -o errexit -o nounset
-TOKEN="3dd3654e6d3c998d006f57f8c642bb6754317112"
+TOKEN=b2f35d9bfd20e1e6a50a99252695a6c3132a1694
+TRAVIS_BRANCH=master
 if [ "$TRAVIS_BRANCH" != "master" ]
 then 
 	    echo "This commit was made against the $TRAVIS_BRANCH and not the master! No deploy!" 
@@ -18,7 +19,7 @@ then
 
 		git config user.email "songtianyi630@163.com"
 
-		git remote add upstream "https://$TOKEN@github.com/songtianyi/1pb-org.github.io.git"
+		git remote add upstream https://$TOKEN@github.com/1pb-org/1pb-org.github.io.git
 
 		git fetch upstream
 
