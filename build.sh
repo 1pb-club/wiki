@@ -13,6 +13,7 @@ then
 		cd _book
 
 		git init
+
 		git config user.name "Travis"
 
 		git config user.email "songtianyi630@163.com"
