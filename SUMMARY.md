@@ -6,6 +6,7 @@
   * 邀请列表
     * [askuy](disclosure/invitations/askuy.md)
   * 自荐列表
+    * [Wukong](disclosure/self-recommandations/askuy.md)
     * [demo](disclosure/self-recommandations/demo.md)
 * [开源项目提案](open-source-project-proposals.md)
   * [demo](proposals/demo.md)
