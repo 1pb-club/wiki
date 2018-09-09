@@ -3,5 +3,7 @@
 * [1pb.org](README.md)
 * [信息公开](disclosure.md)
   * [成员信息](disclosure/members.md)
+* [开源项目提案](open-source-project-proposals.md)
+  * [demo](proposals/demo.md)
 
 
