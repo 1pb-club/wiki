@@ -9,6 +9,7 @@
     * [WuKong](disclosure/self-recommandations/WuKong.md)
     * [qcrao](disclosure/self-recommandations/qcrao.md)
     * [Jason](disclosure/self-recommandations/Jason.md)
+    * [7Ethan](disclosure/self-recommandations/7Ethan.md)
     * [demo](disclosure/self-recommandations/demo.md)
 * [开源项目提案](open-source-project-proposals.md)
   * [demo](proposals/demo.md)
