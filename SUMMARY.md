@@ -8,6 +8,7 @@
   * 自荐列表
     * [WuKong](disclosure/self-recommandations/WuKong.md)
     * [qcrao](disclosure/self-recommandations/qcrao.md)
+    * [Jason](disclosure/self-recommandations/Jason.md)
     * [demo](disclosure/self-recommandations/demo.md)
 * [开源项目提案](open-source-project-proposals.md)
   * [demo](proposals/demo.md)
