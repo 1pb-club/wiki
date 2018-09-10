@@ -5,6 +5,7 @@
 * [songtianyi](https://github.com/songtianyi)
 * [askuy](https://github.com/askuy)
 * [WuKong](https://github.com/orgs/1pb-org/people/qi19901212)
+* [qcrao](https://github.com/qcrao)
 * [Jason](https://github.com/XiaoZhangJian)
 
 | Domain                                   | Capabilities  |
