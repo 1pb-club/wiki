@@ -9,11 +9,11 @@
  *  xx.md 自荐的内容包括
     + 阐述对该组织的理解
     + 阐述加入该组织的目的（想要达成的目标等）
-    +  阐述自己的知识/技能/能力
+    + 阐述自己的知识/技能/能力
 
 
 4. 参考范例：
-/xx.md 请参考 [qcao](https://github.com/1pb-club/wiki/blob/master/disclosure/self-recommandations/qcrao.md)
+ xx.md 请参考 [qcao](https://github.com/1pb-club/wiki/blob/master/disclosure/self-recommandations/qcrao.md)
 
 5. 什么时候通过
 写完提交pr,等待songtianyi 审核，审核通过那就欢迎加入 1pb
