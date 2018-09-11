@@ -5,6 +5,10 @@
 * [songtianyi](https://github.com/songtianyi)
 * [askuy](https://github.com/askuy)
 * [WuKong](https://github.com/qi19901212)
+* [qcrao](https://github.com/qcrao)
+* [Jason](https://github.com/XiaoZhangJian)
+* [7Ethan](https://github.com/7Ethan)
+
 | Domain                                   | Capabilities  |
 | :--------------------------------------- | :------------ |
 | Programming languages                    | c/c++, golang |
