@@ -8,6 +8,7 @@
 * [qcrao](https://github.com/qcrao)
 * [Jason](https://github.com/XiaoZhangJian)
 * [7Ethan](https://github.com/7Ethan)
+* [Le](https://github.com/angeletlsf)
 
 | Domain                                   | Capabilities  |
 | :--------------------------------------- | :------------ |
