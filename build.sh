@@ -18,7 +18,7 @@ then
 
 		git config user.email "songtianyi630@163.com"
 
-		git remote add upstream https://songtianyi:$TOKEN@github.com/1pb-org/1pb-org.github.io.git
+		git remote add upstream https://songtianyi:$TOKEN@github.com/1pb-club/1pb-club.github.io.git
 
 		git fetch upstream
 
