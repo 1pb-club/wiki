@@ -6,7 +6,7 @@
 
 请参考 [pull request](https://www.cnblogs.com/zhangjianbin/p/7774073.html)
 
-###### 提交的内容
+##### 提交的内容
 
 * SUMMARY.md: 修改目录，加上自己的索引
 * disclosure/members.md: 修改列表，增加自己的个人链接
