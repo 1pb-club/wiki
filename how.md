@@ -15,4 +15,4 @@
  xx.md 请参考 [qcao](https://github.com/1pb-club/wiki/blob/master/disclosure/self-recommandations/qcrao.md)
 
 5. 后续
-写完提交pr,等待songtianyi审核，审核通过之后访问 https://github.com/1pb-club 会看到邀请信息。
+ 写完提交pr,等待songtianyi审核，审核通过之后访问 https://github.com/1pb-club 会看到邀请信息。
