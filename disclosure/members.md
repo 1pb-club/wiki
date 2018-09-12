@@ -20,7 +20,7 @@
 
 | Domain                                   | Capabilities                             |
 | :--------------------------------------- | :--------------------------------------- |
-| Programming languages                    | c, golang, rust编程语言理论/范式                 |
+| Programming languages                    | c, golang, rust, 编程语言理论/范式               |
 | Data structure and algorithms            | dfs,bfs,binary search,dp,数论,lzw,图论,3D图形,高级数据结构 |
 | Software engineering                     | 虚拟化,docker                               |
 | Software frameworks                      | spring-boot,protobuf,zk,antlr            |
