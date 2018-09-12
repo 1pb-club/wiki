@@ -12,6 +12,7 @@
     * [Jason](disclosure/self-recommandations/Jason.md)
     * [7Ethan](disclosure/self-recommandations/7Ethan.md)
     * [Le](disclosure/self-recommandations/Le.md)
+    * [shuaishuai](disclosure/self-recommandations/shuaishuai.md)
 * [开源项目提案](open-source-project-proposals.md)
   * [demo](proposals/demo.md)
 
