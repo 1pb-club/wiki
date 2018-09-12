@@ -4,21 +4,22 @@
 
 * [songtianyi](https://github.com/songtianyi)
 * [askuy](https://github.com/askuy)
-* [WuKong](https://github.com/orgs/1pb-org/people/qi19901212)
+* [WuKong](https://github.com/qi19901212)
 * [qcrao](https://github.com/qcrao)
 * [Jason](https://github.com/XiaoZhangJian)
 * [7Ethan](https://github.com/7Ethan)
+* [Le](https://github.com/angeletlsf)
 * [abye](https://github.com/aby4)
 
-| Domain                                   | Capabilities  |
-| :--------------------------------------- | :------------ |
-| Programming languages                    | c/c++, golang |
-| Data structure and algorithms            |               |
-| Software engineering                     |               |
-| Software frameworks                      |               |
-| Database and storages                    |               |
-| Middlewares                              |               |
-| Networks                                 |               |
-| Software architecture and solutions      |               |
-| Software development and quality assurance |               |
-| Uncategorized                            |               |
+| Domain                                     | Capabilities     |
+| :------------------------------------------| :-------------   |
+| Programming languages                      | c/c++,golang,php |
+| Data structure and algorithms              |                  |
+| Software engineering                       | redis            |
+| Software frameworks                        |                  |
+| Database and storages                      | mysql,sqlserver  |
+| Middlewares                                |                  |
+| Networks                                   |                  |
+| Software architecture and solutions        |                  |
+| Software development and quality assurance |                  |
+| Uncategorized                              |                  |
