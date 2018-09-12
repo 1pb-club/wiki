@@ -20,28 +20,13 @@
 * [abye](https://github.com/aby4)
   * Web, php/js commiter
 
-| Domain                                     | Capabilities     |
-| :------------------------------------------| :-------------   |
-| Programming languages                      | c/c++,golang,php |
-| Data structure and algorithms              |                  |
-| Software engineering                       | redis            |
-| Software frameworks                        |                  |
-| Database and storages                      | mysql,sqlserver  |
-| Middlewares                                |                  |
-| Networks                                   |                  |
-| Software architecture and solutions        |                  |
-| Software development and quality assurance |                  |
-| Uncategorized                              |                  |
-
-  * API commiter
-
 | Domain                                   | Capabilities                             |
 | :--------------------------------------- | :--------------------------------------- |
-| Programming languages                    | c, golang, rust, 编程语言理论/范式               |
+| Programming languages                    | c, golang, rust, 编程语言理论/范式 , php              |
 | Data structure and algorithms            | dfs,bfs,binary search,dp,数论,lzw,图论,3D图形,高级数据结构 |
 | Software engineering                     | 虚拟化,docker,模型抽象                          |
 | Software frameworks                      | spring-boot,protobuf,zk,antlr            |
-| Database and storages                    |                                          |
+| Database and storages                    | mysql,sqlserver                |
 | Middlewares                              |                                          |
 | Networks                                 | tcp/ip,防火墙                               |
 | Software architecture and solutions      | b/s,c/s,distributed systems,serverless,faas,云基础设施 |
