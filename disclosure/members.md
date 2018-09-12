@@ -3,20 +3,20 @@
 > 按照加入顺序排列
 
 * [songtianyi](https://github.com/songtianyi) 
-  * 后端 commiter
+  * 后端 committer
 * [askuy](https://github.com/askuy) 
-  * 后端 commiter
+  * 后端 committer
 * [WuKong](https://github.com/qi19901212) 
   * 运营
-  * android/小程序 commiter
+  * android/小程序 committer
 * [qcrao](https://github.com/qcrao)
-  * 后端 commiter
+  * 后端 committer
 * [Jason](https://github.com/XiaoZhangJian)
-  * 游戏 commiter
+  * 游戏 committer
 * [7Ethan](https://github.com/7Ethan)
-  * 硬件, rust/elixir commiter
+  * 硬件, rust/elixir committer
 * [Le](https://github.com/angeletlsf)
-  * API commiter
+  * API committer
 
 | Domain                                   | Capabilities                             |
 | :--------------------------------------- | :--------------------------------------- |
