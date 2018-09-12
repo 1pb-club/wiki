@@ -6,7 +6,6 @@
   * 邀请列表
     * [askuy](disclosure/invitations/askuy.md)
   * 自荐列表
-    * [Wukong](disclosure/self-recommandations/WuKong.md)
     * [WuKong](disclosure/self-recommandations/WuKong.md)
     * [qcrao](disclosure/self-recommandations/qcrao.md)
     * [Jason](disclosure/self-recommandations/Jason.md)
