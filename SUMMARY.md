@@ -6,7 +6,6 @@
   * 邀请列表
     * [askuy](disclosure/invitations/askuy.md)
   * 自荐列表
-    * [Wukong](disclosure/self-recommandations/WuKong.md)
     * [WuKong](disclosure/self-recommandations/WuKong.md)
     * [qcrao](disclosure/self-recommandations/qcrao.md)
     * [Jason](disclosure/self-recommandations/Jason.md)
@@ -15,6 +14,6 @@
     * [abye](disclosure/self-recommandations/abye.md)
 
 * [开源项目提案](open-source-project-proposals.md)
-  * [demo](proposals/demo.md)
+  * [Go基础组件库](proposals/go-components.md)
 
 
