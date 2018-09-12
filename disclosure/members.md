@@ -16,8 +16,9 @@
 * [7Ethan](https://github.com/7Ethan)
   * 硬件, rust/elixir commiter
 * [Le](https://github.com/angeletlsf)
-  * Web, php/js commiter
+  * API committer
 * [abye](https://github.com/aby4)
+  * Web, php/js commiter
 
 | Domain                                     | Capabilities     |
 | :------------------------------------------| :-------------   |
