@@ -13,6 +13,6 @@
     * [7Ethan](disclosure/self-recommandations/7Ethan.md)
     * [Le](disclosure/self-recommandations/Le.md)
 * [开源项目提案](open-source-project-proposals.md)
-  * [demo](proposals/demo.md)
+  * [Go基础组件库](proposals/go-components.md)
 
 
