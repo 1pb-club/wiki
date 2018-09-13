@@ -15,7 +15,17 @@ db，服务发现，配置管理等组件都需要一个client去连接它，开
 
 ### 项目成员
 
-招募中
+- [songtianyi](https://github.com/songtianyi) 
+- [askuy](https://github.com/askuy) 
+- [WuKong](https://github.com/qi19901212) 
+- [qcrao](https://github.com/qcrao)
+- [Jason](https://github.com/XiaoZhangJian)
+- [7Ethan](https://github.com/7Ethan)
+- [Le](https://github.com/angeletlsf)
+
+### 组内守则
+
+* 需表决的内容，看到后请尽快参与表决，暂时没有时间的可以写明自己的表决时间，给大家一个预期，如果手上没有合适的工具，建议大家下载手机版的应用，比如ios版的codehub。
 
 ### 路线图
 

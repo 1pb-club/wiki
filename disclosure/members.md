@@ -7,7 +7,7 @@
 * [askuy](https://github.com/askuy) 
   * 后端 committer
 * [WuKong](https://github.com/qi19901212) 
-  * 运营
+  * 组织运营
   * android/小程序 committer
 * [qcrao](https://github.com/qcrao)
   * 后端 committer
