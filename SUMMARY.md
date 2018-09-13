@@ -11,6 +11,8 @@
     * [Jason](disclosure/self-recommandations/Jason.md)
     * [7Ethan](disclosure/self-recommandations/7Ethan.md)
     * [Le](disclosure/self-recommandations/Le.md)
+    * [abye](disclosure/self-recommandations/abye.md)
+
 * [开源项目提案](open-source-project-proposals.md)
   * [Go基础组件库](proposals/go-components.md)
 
