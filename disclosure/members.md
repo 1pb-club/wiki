@@ -19,6 +19,8 @@
   * API committer
 * [abye](https://github.com/aby4)
   * Web, php/js commiter
+* [MkingWang](https://github.com/MKingWang)
+  * 运维, go/shell
 
 | Domain                                   | Capabilities                             |
 | :--------------------------------------- | :--------------------------------------- |
