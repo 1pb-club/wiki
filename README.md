@@ -16,7 +16,7 @@
 
 * SUMMARY.md: 修改目录，加上自己的索引
 * disclosure/members.md: 修改列表，增加自己的个人链接，修改表格，添加自己的技能/知识点，重复的无需添加
-* disclosure/self-recommandations/xx.md: 新增一个 xx.md文件，命名可以为github 昵称或者其他。此文件需写明的内容包括但不限于:
+* disclosure/self-recommandations/xx.md: 新增一个 xx.md文件，命名为github ID。此文件需写明的内容包括但不限于:
   * 阐述对该组织的理解
   * 阐述加入该组织的目的（想要达成的目标等）
   * 阐述自己的知识/技能/能力
